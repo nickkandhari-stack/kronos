@@ -1,0 +1,6 @@
+{
+  "name": "KRONOS - Horological Pantheon",
+  "description": "Museum-grade digital institute documenting, deconstructing, and preserving the greatest horological achievements of human civilization across 11 seminal Maisons.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
